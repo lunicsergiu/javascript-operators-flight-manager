@@ -1,3 +1,4 @@
+"use strict";
 function Passengers() {
   const checkFlightCapacity = (flightCapacity, passengersArray) => {
     let passengersNumber = 0;
